@@ -1,9 +1,8 @@
-Parental Control Service
+Movies Parental Control
 ===
 
 Scenario
 ---
-
 **Prevent access to movies based on parental control level**
 *As a customer I don’t want my account to be able to access movies that have a higher parental control level than my 
 current preference setting.*
@@ -11,7 +10,7 @@ current preference setting.*
 **Parental Control Levels:**
 U, PG, 12, 15, 18 (where U is the least restrictive and 18 is the most restrictive)
 
-Instructions
+Implementation
 ---
 Implementation of a *ParentalControlService* using the provided project shell. 
 
